@@ -5,6 +5,7 @@ package com.studentapp;
  */
 public class PrintMyName {
     public static void main(String[] args) {
-        System.out.println("Kartik Shah");
+        System.out.println("Kartik");
+        System.out.println("Shah");
     }
 }
